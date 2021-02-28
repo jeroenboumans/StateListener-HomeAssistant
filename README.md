@@ -9,7 +9,7 @@ This is a collection of Python scripts that log state changes provided by the Ho
 ## Requirements
 
 * An environment able to run python(3) scripts.
-* Optional: For the `sensor_ws_phat.py` you'll need a [Micro Dot pHAT](https://shop.pimoroni.com/products/microdot-phat?variant=25454635527) on a Raspberry Pi (zero).
+* Optional: For the `log.phat.py` you'll need a [Micro Dot pHAT](https://shop.pimoroni.com/products/microdot-phat?variant=25454635527) on a Raspberry Pi (zero).
 
 ## Installation
 
