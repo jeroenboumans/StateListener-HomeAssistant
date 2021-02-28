@@ -1,4 +1,4 @@
-# Pimoroni State Listener for Home Assistant
+# State Listener for Home Assistant (and Pimoroni)
 
 ![](https://i.ibb.co/ZKhKqqH/Schermafbeelding-2021-02-28-om-09-21-47.png)
 
