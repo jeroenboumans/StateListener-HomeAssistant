@@ -1,4 +1,5 @@
-# State Listener for Home Assistant (and Pimoroni)
+# State Listener for Home Assistant
+(and Pimoroni's Micro Dot pHAT)
 
 ![](https://i.ibb.co/ZKhKqqH/Schermafbeelding-2021-02-28-om-09-21-47.png)
 
