@@ -2,7 +2,7 @@
 
 ![](https://i.ibb.co/ZKhKqqH/Schermafbeelding-2021-02-28-om-09-21-47.png)
 
-Foobar is a Python library for dealing with word pluralization. The script contains of two parallel processes:
+This is a collection of Python script to log state changes provided by the Home Asssistent websocket API. Each script contains of two parallel processes:
 - Logger: when desired states received data from Home Assistant's socket the logger starts outputting these.
 - Listener: the handler to listen and write states changes to memory which will be picked up by the logger.
 
