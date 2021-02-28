@@ -1,17 +1,14 @@
 #!/usr/bin/env python
 
-# pip install asyncio
-# pip3 install asyncws
-
 import time
-from microdotphat import write_string, set_decimal, clear, show
 import asyncws
 import asyncio
 import threading
 import json
+from microdotphat import write_string, set_decimal, clear, show
 
-token = "YOUR_HASS_IO_TOKEN"
-host = "YOUR_HOST_OR_URL"
+token = "HASS_IO_AUTHORIZATION_TOKEN"
+host = "HASS_IO_HOSTNAME_OR_URL"
 port = 8123
 cache = {} # cache
 entities = [
