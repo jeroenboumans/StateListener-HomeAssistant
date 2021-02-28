@@ -68,7 +68,6 @@ low
 
 ### Run pHAT logger after boot
 
-![](https://pbs.twimg.com/media/EvTQrwpXEAMFUfN?format=jpg&name=4096x4096)
 Add a startup cronjob to the crontab of your system
 ```bash
 # Open de crontab file
