@@ -66,7 +66,7 @@ low
 372 W
 ```
 
-### Run logger after boot
+### Run pHAT logger after boot
 Add a startup cronjob to the crontab of your system
 ```bash
 # Open de crontab file
