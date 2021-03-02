@@ -1,7 +1,7 @@
 # State Listener for Home Assistant
 (and Pimoroni's Micro Dot pHAT)
 
-![](https://i.ibb.co/ZKhKqqH/Schermafbeelding-2021-02-28-om-09-21-47.png)
+![](https://i.imgur.com/NtsGYEq.png)
 A Home Assistent state listener made with Python powered by the Home Asssistent websocket API. Each script contains of two parallel processes:
 - Logger: when configured states change value the logger starts outputting these.
 - Listener: the handler to listen and write states changes to memory.
